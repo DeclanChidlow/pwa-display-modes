@@ -1,0 +1,5 @@
+{
+	"name": "Fullscreen PWA",
+	"start_url": "./index.html",
+	"display": "fullscreen"
+}
