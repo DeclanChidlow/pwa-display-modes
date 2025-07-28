@@ -1,5 +1,12 @@
 {
 	"name": "Fullscreen PWA",
 	"start_url": "./index.html",
-	"display": "fullscreen"
+	"display": "fullscreen",
+	"icons": [
+		{
+			"src": "/icon.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	]
 }
