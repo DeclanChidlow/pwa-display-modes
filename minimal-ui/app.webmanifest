@@ -1,7 +1,7 @@
 {
-	"name": "Fullscreen PWA",
+	"name": "Minimal-UI PWA",
 	"start_url": "./index.html",
-	"display": "fullscreen",
+	"display": "minimal-ui",
 	"icons": [
 		{
 			"src": "../icon.png",
